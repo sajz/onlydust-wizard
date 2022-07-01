@@ -1,8 +1,3 @@
----
-title: 'click & hold briqs placement'
-disqus: hackmd
----
-
 click & hold briqs placement
 ===
 
